@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+
+body {
+    font-family: 'Inter', sans-serif !important;
+    background-color: #F6F6F6 !important;
+}
+
+.bg-news-custom {
+    background-color: #5D5FEF !important;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.bg-custom-title {
+    font-size: 16px !important;
+    color: #5D5FEF !important;
+    font-weight: bold !important;
+}
+
+.custom-nav-links {
+    font-size: 16px !important;
+    color: #858585 !important;
+    font-weight: 500 !important;
+}
+
+.active {
+    color: #5D5FEF !important;
+}
+
+.custom-nav-links:hover {
+    color: #5D5FEF !important;
+    font-weight: bold !important;
+    text-decoration: underline !important;
+}
+
+.category-link-custom {
+    color: #858585 !important;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.category-active {
+    color: #5D5FEF !important;
+    background: #EEEFFF;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.category-link-custom:hover {
+    color: #1c1fb6 !important;
+    background: #EEEFFF;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.custom-alert-section {
+    background-color: white !important;
+    padding: 8px !important;
+    border-radius: 5px !important;
+}
+
+.custom-alert {
+    font-size: 16px !important;
+}
+
+.custom-filer-font {
+    font-size: 16px !important;
+}
+
+.drop-down-filer {
+    color: #858585 !important;
+}
+
+.btn-custom-bg {
+    background-color: #5D5FEF !important;
+}
+
+.btn-outline-bg {
+    background-color: white !important;
+    border: 1px solid #5D5FEF !important;
+    color: #5D5FEF !important;
+}
+
+.btn-outline-bg:hover {
+    background-color: #5D5FEF !important;
+    color: white !important;
+}
+
+.custom-arrow-color {
+    color: #5D5FEF !important;
+    cursor: pointer !important;
+}
+
+.custom-arrow-color:hover {
+    color: #2225e2 !important;
+}
